@@ -1,7 +1,5 @@
 # Overview
 
-The purpose of this project was to learn the basics of pygame and how to start building a game.
-
 The game is very simple. It includes a character who can walk around a little forest area.
 
 The purpose of this project was to learn the basics of pygame and how to start building a game.
