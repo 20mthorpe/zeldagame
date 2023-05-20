@@ -14,9 +14,8 @@ This game was created in python, using pygame.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Clear Code](https://www.youtube.com/watch?v=QU1pPzEGrqw)
-* [Geeks for Geeks] (https://www.geeksforgeeks.org/introduction-to-pygame/)
+* [Geeks for Geeks](https://www.geeksforgeeks.org/introduction-to-pygame/)
 
 # Future Work
 
